@@ -20,3 +20,6 @@ Customer Churn refers to the process of identifying all the possible customer or
 The task in this project is to classify the customer on whether they will stay with the company or terminate their interrelation.
 
 One of the key metrics to measure a business' success is by measuring its customer churn rate - lower the chrun , the    more love towards the company.
+
+
+![Steps](https://user-images.githubusercontent.com/86180971/123560765-e96fa480-d7c1-11eb-91c2-66100f98988d.jpg)
