@@ -24,4 +24,4 @@ One of the key metrics to measure a business' success is by measuring its custom
 Steps :
 
 
-                             ![Steps](https://user-images.githubusercontent.com/86180971/123560765-e96fa480-d7c1-11eb-91c2-66100f98988d.jpg)
+   ![Steps](https://user-images.githubusercontent.com/86180971/123560765-e96fa480-d7c1-11eb-91c2-66100f98988d.jpg)
