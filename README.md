@@ -3,6 +3,7 @@ Customer-Churn-Prediction
 Machine Learning Model : To predict whether the customer/client will terminate their relations with the company or not.
 
 Business Understanding ( What is happening in the Company )
+
 Suppose there is a X company(whether it is telecom, healthcare, gaming, banking, e-commerce, etc any types of company)  Suppose they launced a product and customer after using that product were not satisfied due to some reason and start switching to another Y company product and using it. 
 Here it means... that customer churn from X company and will more to Y company or in simple word people starting leaving your business.
 
@@ -13,6 +14,8 @@ In order to see that which customer can possibly leave the company , business ow
 
 
 Customer Churn Score
+
+
 Customer Churn refers to the process of identifying all the possible customer or clients who will terminate their relations with the company. It is a very important factor for any organization as it used to estimate the growth of the organisation but also for predicting trends of future customers.
 The task in this project is to classify the customer on whether they will stay with the company or terminate their interrelation.
 
