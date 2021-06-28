@@ -8,3 +8,4 @@ xgboost==1.4.2
 numpy==1.19.5
 ipython==7.25.0
 scikit_learn==0.24.2
+Flask==1.1.2
