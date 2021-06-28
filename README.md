@@ -27,3 +27,35 @@ One of the key metrics to measure a business' success is by measuring its custom
 
 
    ![Steps](https://user-images.githubusercontent.com/86180971/123560765-e96fa480-d7c1-11eb-91c2-66100f98988d.jpg)
+
+
+## Homepage :
+
+
+   ![Screenshot (2)](https://user-images.githubusercontent.com/86180971/123689492-e8e21700-d870-11eb-85cb-a34e264f2046.png)
+   
+ 
+## Prediction :
+
+
+   ![Screenshot (5)](https://user-images.githubusercontent.com/86180971/123689497-ea134400-d870-11eb-8d9e-d01ba3da6f75.png)
+
+
+## Enter Details and Click on "Submit" :
+
+
+   ![Screenshot (6)](https://user-images.githubusercontent.com/86180971/123689505-eaabda80-d870-11eb-87c5-09d97750c022.png)
+
+
+## Prediction Result :
+   
+   
+   ![Screenshot (7)](https://user-images.githubusercontent.com/86180971/123689484-e7b0ea00-d870-11eb-823c-9d4b50062045.png)
+
+
+## Analysis of Dataset :
+   
+   
+   ![Screenshot (3)](https://user-images.githubusercontent.com/86180971/123689493-e97aad80-d870-11eb-99c5-66334f651391.png)
+   ![Screenshot (4)](https://user-images.githubusercontent.com/86180971/123689495-ea134400-d870-11eb-92e3-e1261276fda9.png)
+
