@@ -2,7 +2,7 @@
 
 ### Link : https://churn-score-prediction.herokuapp.com/
 
-Machine Learning Model : To predict whether the customer/client will terminate their relations with the company or not.
+#### Machine Learning Model : To predict whether the customer/client will terminate their relations with the company or not.
 
 ## Business Understanding ( What is happening in the Company ) :
 
